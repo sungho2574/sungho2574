@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### 💪Stacks
+### 💪 Stacks
 
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -25,7 +25,7 @@
   <br>
 </div>
 
-### 🌱Contributions
+### 🌱 Contributions
 
 <div align="center">
 <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600">

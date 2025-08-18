@@ -6,9 +6,9 @@
   </a>
 </div>
 
-### ⚒️Tech Stacks⚒️
+### 💪Stacks
 
-<div align=center> 
+<div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   
@@ -22,7 +22,11 @@
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  
-  
   <br>
+</div>
+
+### 🌱Contributions
+
+<div align="center">
+<img src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600">
 </div>

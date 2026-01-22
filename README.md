@@ -1,9 +1,7 @@
 # 👋 Hi there
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height=220 src="https://github-readme-streak-stats-seven-azure.vercel.app?user=sungho2574&card_width=400&short_numbers=false&hide_longest_streak=false&theme=dark" alt="GitHub Streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sungho2574" alt="GitHub Streak" /></a>
 </div>
 
 ### 💪 Stacks
